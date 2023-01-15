@@ -1,12 +1,12 @@
 # founders
 This is a page that shows the foundera of the $TZN token and their description 
 
-Omari Kitula (co-founder and CFO)
+Omari Kitula (co-founder and CTO)
 A startup enthusiast who has worked as a CEO of CHIWAWA logistics 
 
 TWITTER www.twitter.com/OmariKitula
 
-https://www.crunchbase.com/person/omari-kitula
+Crunchbase https://www.crunchbase.com/person/omari-kitula
 
 
 
